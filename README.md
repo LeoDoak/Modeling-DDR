@@ -14,7 +14,7 @@ This repository contains the code for modeling a differential drive robot and im
 
 This group assignment was completed by:
 - Leo Doak (me)
-- Audrey sWarrene
+- Audrey Warrene
 
 The project spanned the entire semester and was implemented in a Jupyter notebook using Python along with Markdown/LaTeX code. Key libraries utilized include:
 
