@@ -49,6 +49,7 @@ The original prompt for the project can be seen in the repository in the file ca
 The markdown cells did not display the markdown correctly. So a pdf was created that kept the markdown in the correct formating. I used https://www.convert.ploomber.io/ to convert my .ipynb to a pdf. 
 
 Also in the respository is our Powerpoint Presentation that in two file formats, .pptx  and .pdf. The Powerpoint format is not viewabale on Github but if downloaded the animations on slide 8 will function. The pdf is viewable on Github but the animations on slide 8 do not function. This presentation was used to present our work to our class and Professsor. We recieved positive feedback for our presentation and our work. 
+
 ---
 
 **Requirements:**
