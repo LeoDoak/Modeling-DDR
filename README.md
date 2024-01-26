@@ -46,6 +46,8 @@ Links to the documentation and APIs for the code and libraries used in this proj
 
 The original prompt for the project can be seen in the repository in the file called “CSC-340-DDR-Project-Prompt”. From this original first prompt, we were then assigned to implement controllers such as PID and MPC.
 
+The markdown cells did not display the markdown correctly. So a pdf was created that kept the markdown in the correct formating. I used https://www.convert.ploomber.io/ to convert my .ipynb to a pdf. 
+
 ---
 
 **Requirements:**
